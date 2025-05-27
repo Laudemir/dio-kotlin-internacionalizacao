@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internacionalizacao</string>
+    <string name="digite_seu_nome">Enter your name</string>
+    <string name="endereco">Enter your address</string>
+    <string name="email">Enter your e-mail</string>
+    <string name="telefone">Enter your phone number</string>
+    <string name="cadastro">Register</string>
+    <string name="enviar">Send</string>
+</resources>

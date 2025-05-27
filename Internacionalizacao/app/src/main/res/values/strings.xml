@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Internacionalizacao</string>
+    <string name="digite_seu_nome" translatable="false">Digite seu nome</string>
+    <string name="endereco" translatable="false">Digite seu endereço</string>
+    <string name="email" translatable="false">Digite seu e-mail</string>
+    <string name="telefone" translatable="false">Digite seu telefone</string>
+    <string name="cadastro" translatable="false">Cadastro</string>
+    <string name="enviar" translatable="false">Enviar</string>
+</resources>
