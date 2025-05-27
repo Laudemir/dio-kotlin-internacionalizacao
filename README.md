@@ -1,2 +1,4 @@
 # dio-kotlin-internacionalizacao
-first kotlin internationalization project
+Projeto do App Android Kotlin com Suporte a Vários Idiomas
+Idiomas Português Brasil, Inglês e Espanhol
+
